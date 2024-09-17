@@ -25,9 +25,10 @@ To run this project, you'll need R and the following R packages:
 rpart
 rpart.plot
 
-### You can install these packages using the following commands in R:
-- RCopyinstall.packages('rpart')
-- install.packages('rpart.plot')
+### You can install these packages using the following command in R:
+```
+install.packages('rpart.plot')
+```
 ## Usage
 
 Ensure the booking.csv file is in the correct directory.
