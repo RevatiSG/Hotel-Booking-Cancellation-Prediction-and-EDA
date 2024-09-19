@@ -35,6 +35,10 @@ Ensure the booking.csv file is in the correct directory.
 Open the R script in your preferred R environment (e.g., RStudio).
 Run the script to perform the analysis.
 
+## About the Author
+
+Revati Ganorkar | Product Enthusiast | [LinkedIn](https://www.linkedin.com/in/revati-ganorkar)
+
 ## Key Steps in the Analysis
 
 - Data loading and preprocessing
